@@ -100,6 +100,6 @@ FUTURI SVILUPPI
 AUTORE
 ------------------------------------------------------------
 
-Sviluppato da [inserisci il tuo nome o nickname]
-Contatti: [opzionale - email o link GitHub]
+Sviluppato da [Marcello Ronchetti]
+
 
